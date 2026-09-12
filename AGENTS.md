@@ -37,7 +37,7 @@ Preserve raw observations, calibration, uncertainty, negative results, failed re
 Evolution proposes; independent gates promote. No generation may rewrite its own Authority, Evaluation or Provenance roots.
 
 
-## Canonical Four-Core / Four-Track Model
+## Canonical Four-Core Architecture
 
 ```text
 EAOS Cores: Agent Runtime / Capability Composition / Governed Action / Evidence-Governed Evolution
@@ -46,3 +46,15 @@ Track B: SilverMind / virtual_idol
 Track C: eaos-vlatest
 Track D: EAI4S (Concept / Documentation Only)
 ```
+
+## Canonical 1+3 Program Topology
+
+```text
+Track A physAgentOS = single unified EAOS substrate and stable authority
+Track B SilverMind = human/product reference validation domain
+Track C eaos-vlatest = VLA/ActionProducer reference validation domain
+Track D EAI4S = strategic autonomous-science reference validation domain
+```
+
+B/C/D consume, validate and pressure-test Track A; they are not peer EAOS foundations. Any cross-track world-changing action must route through Track A governance and evidence. Track D is the long-term comprehensive North Star for AI-assisted autonomous scientific discovery; during D0 it supplies architecture requirements only, not runtime evidence.
+
