@@ -1,4 +1,4 @@
-# EAI4S Next Plan — D0 Concept and Boundary Freeze
+# EAI4S Next Plan — Track D / Four-Track Program / D0 Concept and Boundary Freeze
 
 > Status: **Documentation Only / No Code Development**
 
