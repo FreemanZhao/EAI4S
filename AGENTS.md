@@ -36,3 +36,13 @@ Preserve raw observations, calibration, uncertainty, negative results, failed re
 
 Evolution proposes; independent gates promote. No generation may rewrite its own Authority, Evaluation or Provenance roots.
 
+
+## Canonical Four-Core / Four-Track Model
+
+```text
+EAOS Cores: Agent Runtime / Capability Composition / Governed Action / Evidence-Governed Evolution
+Track A: physAgentOS
+Track B: SilverMind / virtual_idol
+Track C: eaos-vlatest
+Track D: EAI4S (Concept / Documentation Only)
+```
