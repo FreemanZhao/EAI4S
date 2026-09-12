@@ -51,6 +51,8 @@ Evidence-Governed Evolution Core
 
 EAI4S 通过这些核心编排科学任务、实验设备、机器人、数据、模型与验证器，但不复制 Runtime、World、Device、Evidence、Policy、Lease、Approval 或 Evolution authority。
 
+![EAI4S Scientific Discovery Loop](assets/eai4s-scientific-discovery-loop.svg)
+
 ## Scientific Discovery Loop
 
 ```mermaid
