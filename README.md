@@ -31,7 +31,9 @@ RSI-driven improvement without self-authorized production changes
 
 ## Program Position
 
-EAI4S 是第四条验证轨，不是第五个 EAOS Core，也不是 physAgentOS 的分叉。
+EAI4S 是第四条参考验证轨，不是第五个 EAOS Core，也不是 physAgentOS 的分叉。程序采用 **1 个统一基座 + 3 个参考验证域**：Track A 是唯一 EAOS 基座与稳定 Authority，Track B/C/D 分别从人机关系、VLA/ActionProducer 和自主科学发现方向验证 Track A。
+
+Track D 不是普通垂直应用，而是 EAOS 面向 AI 辅助自主科学发现的长期综合 North Star。它用于检验同一基座能否支撑科学认知、实验设计、异构设备、具身执行、多模态观察、复现确认和受治理演化；D0 当前仅形成概念与架构压力，不构成运行验证证据。
 
 | Track | Repository | Ownership |
 |---|---|---|
