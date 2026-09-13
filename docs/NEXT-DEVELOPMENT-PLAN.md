@@ -1,5 +1,10 @@
 # EAI4S Next Plan — Track D / Four-Track Program / D0 Concept and Boundary Freeze
 
+## Current Task — Issue #1
+
+Create the scientific-discovery-to-EAOS capability validation matrix and a future low-risk Shadow reference scenario design. Concept/documentation only: no code, service, device adapter or physical experiment.
+
+
 > Status: **Documentation Only / No Code Development**
 
 ## D0 Deliverables
