@@ -2,6 +2,10 @@
 
 > Track D: Scientific Discovery Reference Domain. **Concept / Documentation Only. No Code Development.**
 
+## Current Task — Issue #1
+
+Create the scientific-discovery-to-EAOS capability validation matrix and a future low-risk Shadow reference scenario design. Concept/documentation only: no code, service, device adapter or physical experiment.
+
 ## Authority
 
 ```text
