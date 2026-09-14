@@ -62,3 +62,9 @@ Track D EAI4S = strategic autonomous-science reference validation domain
 
 B/C/D consume, validate and pressure-test Track A; they are not peer EAOS foundations. Any cross-track world-changing action must route through Track A governance and evidence. Track D is the long-term comprehensive North Star for AI-assisted autonomous scientific discovery; during D0 it supplies architecture requirements only, not runtime evidence.
 
+## Latest Architect Review — 2026-09-14
+
+No substantive D1-A delivery is present after the dispatch commits. Issue #1 remains the only task: produce `docs/04-EAOS-CAPABILITY-VALIDATION-MATRIX.md` for the complete scientific loop, including Track A mapping, authority, evidence, recovery, uncertainty, negative results, replication, cost and human KnowledgeCommit.
+
+Also design one future low-risk AI/ML dry-lab or digital-twin Shadow scenario. Keep perovskite as a future flagship physical scenario. D0 remains documentation-only: no source code, services, device adapters, private SilverMind data or autonomous-discovery claims. See the 2026-09-14 architect comment in Issue #1.
+
