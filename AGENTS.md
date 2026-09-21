@@ -68,3 +68,8 @@ No substantive D1-A delivery is present after the dispatch commits. Issue #1 rem
 
 Also design one future low-risk AI/ML dry-lab or digital-twin Shadow scenario. Keep perovskite as a future flagship physical scenario. D0 remains documentation-only: no source code, services, device adapters, private SilverMind data or autonomous-discovery claims. See the 2026-09-14 architect comment in Issue #1.
 
+## Latest Architect Dispatch — 2026-09-21
+
+Issue #1 D1-A capability validation matrix remains active. Issue #2 D1-B is blocked on #1 and is concept/documentation only.
+
+D1-B will describe scientist/operator/safety-steward Presence, instrument/robot/sensor/digital-twin Endpoints and four-timescale orchestration in a low-risk digital-twin scenario. No code, service, adapter, physical authority or autonomous-discovery claim is authorized.
