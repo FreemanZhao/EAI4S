@@ -55,3 +55,9 @@ Track D EAI4S = strategic autonomous-science reference validation domain
 B/C/D consume, validate and pressure-test Track A; they are not peer EAOS foundations. Any cross-track world-changing action must route through Track A governance and evidence. Track D is the long-term comprehensive North Star for AI-assisted autonomous scientific discovery; during D0 it supplies architecture requirements only, not runtime evidence.
 
 EAI4S 的未来 Gate 必须以其对 Track A 的新增能力压力和可复现 Evidence 为依据，不得通过建立独立 Runtime、Device、Policy、Evidence 或 Evolution Core 来完成。
+
+## Latest Architect Dispatch — 2026-09-21
+
+Issue #1 D1-A capability validation matrix remains active. Issue #2 D1-B is blocked on #1 and is concept/documentation only.
+
+D1-B will describe scientist/operator/safety-steward Presence, instrument/robot/sensor/digital-twin Endpoints and four-timescale orchestration in a low-risk digital-twin scenario. No code, service, adapter, physical authority or autonomous-discovery claim is authorized.
