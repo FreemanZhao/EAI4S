@@ -1,3 +1,22 @@
+<!-- TRACK-D-UPPER-APPLICATION-2026-09-25 -->
+## Canonical Position — Track D is an EAOS Application
+
+Track D/EAI4S is the scientific-discovery upper-layer application and strategic reference application built on
+Track A EAOS. It is not a parallel scientific OS, laboratory runtime or authority layer.
+
+EAI4S owns scientific questions, hypotheses, protocols, observations, analyses, discovery claims and replication
+semantics. Future instruments, laboratory robots, scientific models, databases and data connectors must be
+registered EAOS capability plugins and consumed through Track A Runtime, Capability Catalog, Policy/Approval/Lease
+and Evidence.
+
+Canonical flow:
+
+EAI4S application → Track A EAOS → registered scientific/model/database/instrument plugins.
+
+D0 remains concept/documentation only. Application classification does not authorize source code, adapters,
+physical experiments or autonomous discovery claims.
+
+
 # AGENTS — EAI4S Concept Repository
 
 > Track D: Scientific Discovery Reference Domain. **Concept / Documentation Only. No Code Development.**
